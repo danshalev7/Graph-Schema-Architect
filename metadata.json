@@ -1,0 +1,5 @@
+{
+  "name": "Graph Schema Architect",
+  "description": "An AI-powered co-pilot to assist developers in designing and building optimized graph database schemas for FalkorDB.",
+  "requestFramePermissions": []
+}
